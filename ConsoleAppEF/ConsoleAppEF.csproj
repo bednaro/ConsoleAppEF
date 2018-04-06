@@ -64,6 +64,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="GenericRepo.cs" />
     <Compile Include="IRepository.cs" />
     <Compile Include="OsobaDBContext.cs" />
